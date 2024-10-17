@@ -1,6 +1,6 @@
 import React from 'react';
 import HomeContent from './components/HomeContent.jsx';
-import NavBar from './components/navbar.jsx';
+import NavBar from './components/NavBar.jsx';
 import FeatureComponent from './components/FeatureComponent.jsx';
 import WorkFlow from './components/WorkFlow.jsx';
 import PricingSection from './components/PricingSection.jsx';
